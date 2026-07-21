@@ -12,50 +12,61 @@
 </div>
 
 
-<div align="center">
+<br>
 
-<table border="0">
+
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none;">
+
 <tr>
 
-<td width="35%" align="center" valign="middle">
+<td width="35%" align="center" valign="middle" style="border:none;">
 
-<img src="./assets/adeel-avatar.png" width="220"/>
+<img src="./assets/adeel-avatar.png" width="275"/>
 
 </td>
 
 
-<td width="65%" align="center" valign="middle">
+<td width="65%" valign="middle" style="border:none; padding-left:40px;">
 
-<h3>Hi, I'm Adeel! 👋</h3>
+<h3 align="center">
+Hi, I'm Adeel! 👋
+</h3>
 
-<p>
+
+<p align="left">
 I'm an Artificial Intelligence student passionate about building practical AI solutions, automation tools, and backend systems.
 </p>
 
-<p>
+
+<p align="left">
 I enjoy creating tools that make workflows smarter, faster, and more efficient.
 </p>
 
 
-<p>
+<p align="left">
 <b>Currently exploring:</b>
 </p>
 
 
-<p>
+<p align="left">
+
 🤖 AI Agents & Intelligent Workflows<br>
+
 ⚡ AI Automation Systems<br>
+
 🐍 Python Backend Development<br>
+
 🧠 LLM Applications
+
 </p>
 
 
 </td>
 
 </tr>
+
 </table>
 
-</div>
 
 
 ---
@@ -69,6 +80,7 @@ I enjoy creating tools that make workflows smarter, faster, and more efficient.
 <img src="https://skillicons.dev/icons?i=python,fastapi,git,github,vscode,linux" />
 
 </div>
+
 
 
 ---
@@ -106,11 +118,15 @@ An AI agent system focused on improving task routing efficiency while reducing u
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adeel-x&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%"/>
 
+
 <br>
+
 
 <img src="https://raw.githubusercontent.com/Adeel-x/Adeel-x/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
+
 </div>
+
 
 
 ---
@@ -121,9 +137,11 @@ An AI agent system focused on improving task routing efficiency while reducing u
 
 <br>
 
+
 <a href="https://linkedin.com/in/adeel-faheem">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 
 <a href="mailto:adeelfaheem20@gmail.com">
 <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
