@@ -17,12 +17,12 @@
 
 <div align="center">
 
-<img align="left" src="./assets/adeel-avatar.png" width="240" style="margin-right:50px;"/>
+<img align="left" src="./assets/adeel-avatar.png" width="240" style="margin-right:100px;"/>
 
 
 <div align="left">
 
-<h3 align="center">Hi, I'm Adeel! </h3>
+<h3 align="left">Hi, I'm Adeel! </h3>
 
 
 <p>
