@@ -18,7 +18,7 @@
 
 <br>
 
-### Hi, I'm Adeel 👋
+### Hi, I'm Adeel!
 
 I'm an Artificial Intelligence student passionate about building practical AI solutions, automation tools, and backend systems.
 
@@ -40,7 +40,7 @@ Currently exploring:
 
 <div align="center">
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <br>
 
@@ -53,12 +53,12 @@ Currently exploring:
 
 <div align="center">
 
-## 🚀 Projects
+## Projects
 
 </div>
 
 
-### 🤖 Token Efficient Routing Agent
+### Token Efficient Routing Agent
 
 An AI agent system focused on improving task routing efficiency while reducing unnecessary model usage.
 
@@ -78,7 +78,7 @@ An AI agent system focused on improving task routing efficiency while reducing u
 
 <div align="center">
 
-## 📊 Contribution Activity
+## Contribution Activity
 
 <br>
 
@@ -95,7 +95,7 @@ An AI agent system focused on improving task routing efficiency while reducing u
 
 <div align="center">
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <br>
 
