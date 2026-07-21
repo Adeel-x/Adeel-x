@@ -21,7 +21,7 @@
 </td>
 
 
-<td width="65%" align="center">
+<td width="65%" align="left">
 
 ### Hi, I'm Adeel!
 
