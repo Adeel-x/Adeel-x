@@ -5,36 +5,6 @@
 </div>
 
 
-<h1 align="center">
-Hi, I'm Adeel 👋
-</h1>
-
-<p align="center">
-Artificial Intelligence Student • AI Automation Developer • Python Developer
-</p>
-
-
-<p align="center">
-Building practical AI tools, automation systems, and intelligent workflows.
-</p>
-
-
-<div align="center">
-
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-
-</div>
-
-
-<br>
-
-
 ## About Me
 
 
@@ -50,7 +20,7 @@ Building practical AI tools, automation systems, and intelligent workflows.
 
 <td width="60%">
 
-Hey there! I'm Adeel 👋
+**Hey there! I'm Adeel 👋**
 
 I'm an Artificial Intelligence student interested in building practical solutions using AI, automation, and backend technologies.
 
