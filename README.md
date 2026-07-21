@@ -2,109 +2,125 @@
 
 <br>
 
-## 👋 About Me
+<div align="center">
 
-<table>
-<tr>
+# 👋 About Me
 
-<td width="35%" align="center">
 <img src="assets/adeel-character.png" width="280"/>
-</td>
 
-<td width="65%">
+<br>
 
 Hi, I'm Adeel 👋
 
-I'm an Artificial Intelligence student passionate about building practical AI solutions, automation tools, and backend systems.
+Artificial Intelligence student passionate about building practical AI solutions, automation tools, and backend systems.
 
-I enjoy exploring:
+I enjoy creating tools that make workflows smarter, faster, and more efficient.
 
-- AI agents and intelligent workflows
-- LLM applications
-- Python backend development
-- Developer automation tools
+<br>
+
+Currently exploring:
+
+🤖 AI Agents & Intelligent Workflows  
+⚡ AI Automation Systems  
+🐍 Python Backend Development  
+🧠 LLM Applications  
+
+<br>
 
 I believe the best way to learn is by building.
 
-</td>
-
-</tr>
-</table>
+</div>
 
 
 <br>
-
----
-
-## 🛠️ Technologies & Tools
+<br>
 
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,git,github,vscode,linux" />
+# 🛠️ Technologies & Tools
 
-</p>
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,git,github,vscode,linux,langchain"/>
+
+
+</div>
 
 
 <br>
-
----
-
-## 🚀 Projects
+<br>
 
 
-### 🤖 Token Efficient Routing Agent
+<div align="center">
 
-An AI agent system designed to handle different tasks efficiently while reducing unnecessary model usage.
+# 🚀 Projects
 
-Built with focus on:
 
-- Agent workflows
-- Model routing
-- Prompt optimization
+</div>
+
+
+## 🤖 Token Efficient Routing Agent
+
+
+An AI agent system focused on efficient task routing and reducing unnecessary model usage.
+
+Built around:
+
+- AI agent workflows
+- LLM optimization
+- Prompt engineering
 - Python development
 
 
-🔗 View Repository
+🔗 [View Repository](https://github.com/Adeel-x/Token-Efficient-Routing-Agent)
 
-
-<br>
-
----
-
-## 📈 Contribution Activity
-
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adeel-x&theme=github-dark&hide_border=true" />
-
-</p>
 
 
 <br>
 
----
 
-## 🤝 Let's Connect
+<div align="center">
+
+# 📈 Contribution Activity
 
 
-<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adeel-x&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
 
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<br>
+
+
+<!-- Snake Animation -->
+
+<img src="https://raw.githubusercontent.com/Adeel-x/Adeel-x/output/github-contribution-grid-snake-dark.svg"/>
+
+
+</div>
+
+
+<br>
+<br>
+
+
+<div align="center">
+
+# 🤝 Let's Connect
+
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+&nbsp;
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</p>
 
 
 <br>
+<br>
 
-<p align="center">
 ⭐ Thanks for visiting my profile!
-</p>
+
+</div>
