@@ -109,8 +109,10 @@ An AI agent system focused on improving task routing efficiency while reducing u
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Adeel-x/Adeel-x/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
+<div align="center">
+  
+  <img src="https://raw.githubusercontent.com/Adeel-x/Adeel-x/gh-pages/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+  
 </div>
 
 
