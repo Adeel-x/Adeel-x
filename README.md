@@ -9,9 +9,6 @@
 
 ## Know About Me
 
-</div>
-
-
 <table>
 <tr>
 
