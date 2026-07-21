@@ -7,7 +7,7 @@
 
 <div align="center">
 
-## 👋 About Me
+## Know About Me
 
 </div>
 
