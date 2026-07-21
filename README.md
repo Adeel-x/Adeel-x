@@ -36,8 +36,6 @@ Currently exploring:
 </div>
 
 
----
-
 <div align="center">
 
 ## Technologies & Tools
@@ -48,8 +46,6 @@ Currently exploring:
 
 </div>
 
-
----
 
 <div align="center">
 
