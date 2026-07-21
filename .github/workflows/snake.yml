@@ -15,7 +15,8 @@ jobs:
 
     steps:
 
-      - uses: Platane/snk@v3
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: Adeel-x
           outputs: |
@@ -23,9 +24,12 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Push snake animation
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
+          jekyll: false
 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BUILD_DIR: dist
