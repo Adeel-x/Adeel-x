@@ -107,12 +107,9 @@ An AI agent system focused on improving task routing efficiency while reducing u
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adeel-x&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%"/>
 
-
 <br>
 
-
 <img src="https://raw.githubusercontent.com/Adeel-x/Adeel-x/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
 
 </div>
 
