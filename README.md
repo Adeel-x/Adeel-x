@@ -35,7 +35,6 @@ Currently exploring:
 - 🤖 AI Agents & Intelligent Workflows
 - ⚡ AI Automation Systems
 - 🐍 Python Backend Development
-- 🧠 LLM Applications
 
 
 </td>
