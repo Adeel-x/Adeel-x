@@ -31,9 +31,6 @@ Currently exploring:
 - 🐍 Python Backend Development
 - 🧠 LLM Applications
 
-
-I believe the best way to learn is by building.
-
 <br clear="left"/>
 
 </div>
