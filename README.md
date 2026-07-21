@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<img align="left" src="./assets/adeel-avatar.png" width="240" style="margin-right:100px;"/>
+<img align="left" src="./assets/adeel-avatar.png" width="260"/>&nbsp;&nbsp;
 
 
 <div align="left">
