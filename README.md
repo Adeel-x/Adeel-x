@@ -15,57 +15,46 @@
 <br>
 
 
-<table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none;">
+<div align="center">
 
-<tr>
-
-<td width="35%" align="center" valign="middle" style="border:none;">
-
-<img src="./assets/adeel-avatar.png" width="275"/>
-
-</td>
+<img align="left" src="./assets/adeel-avatar.png" width="250" style="margin-right:20px;"/>
 
 
-<td width="65%" valign="middle" style="border:none; padding-left:40px;">
+<div align="left">
 
-<h3 align="center">
-Hi, I'm Adeel! 👋
-</h3>
+<h3 align="center">Hi, I'm Adeel! 👋</h3>
 
 
-<p align="left">
+<p>
 I'm an Artificial Intelligence student passionate about building practical AI solutions, automation tools, and backend systems.
 </p>
 
 
-<p align="left">
+<p>
 I enjoy creating tools that make workflows smarter, faster, and more efficient.
 </p>
 
 
-<p align="left">
+<p>
 <b>Currently exploring:</b>
 </p>
 
 
-<p align="left">
-
+<p>
 🤖 AI Agents & Intelligent Workflows<br>
-
 ⚡ AI Automation Systems<br>
-
 🐍 Python Backend Development<br>
-
 🧠 LLM Applications
-
 </p>
 
 
-</td>
+</div>
 
-</tr>
 
-</table>
+</div>
+
+
+<br clear="left"/>
 
 
 
