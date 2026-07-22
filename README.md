@@ -42,8 +42,6 @@
 
 ### Hi, I'm Adeel!
 
-**AI student building practical tools, automation, and backend systems.**
-
 </div>
 
 <br>
