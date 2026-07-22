@@ -1,6 +1,6 @@
-<!-- ====================================================== -->
-<!--                      BANNER                            -->
-<!-- ====================================================== -->
+<!-- ============================================================ -->
+<!--                          BANNER                             -->
+<!-- ============================================================ -->
 
 <div align="center">
 
@@ -10,120 +10,122 @@
 
 <br>
 
+---
+
+
+<!-- ============================================================ -->
+<!--                       KNOW ABOUT ME                         -->
+<!--   Text-only, full-width -> flawless on desktop AND mobile.  -->
+<!--   The banner already carries the character/branding.        -->
+<!-- ============================================================ -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=AI+Student+%26+Builder;Practical+AI+Solutions+%26+Automation;Python+Backend+%7C+LLM+Applications" alt="Typing SVG" />
+## Know About Me
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Adeel-x&label=Profile%20Views&color=ffffff&style=flat" alt="Profile Views" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=I+build+AI+that+does+the+boring+work;Agents+%E2%80%A2+Automation+%E2%80%A2+Backend;Python-first%2C+always+shipping" alt="What I do" />
 
 </div>
 
 <br>
 
+I'm an AI student who got into this field for a very honest reason — I wanted to build things that handle the boring work so I don't have to. That slowly turned into a real obsession with AI agents, automation, and the backend systems that quietly hold everything together.
 
-<!-- ====================================================== -->
-<!--                    KNOW ABOUT ME                       -->
-<!--   Centered hero layout: bulletproof on mobile AND      -->
-<!--   desktop. Avatar on top, text below. Never shatters.  -->
-<!-- ====================================================== -->
+Most of what I build starts the same way: I get mildly annoyed at doing something by hand, and a few hours later there's a Python script, an agent, or an LLM pipeline doing it better than I would have. I care less about the hype and more about tools that actually work when you run them.
 
-<div align="center">
+Still early in the journey, still breaking things on purpose to understand them — but everything on this profile is real, built by hand, and shipped.
 
-##  Know About Me
+**What I'm working on right now**
 
-<br>
-
-<img src="./assets/adeel-avatar.png" width="260" alt="Adeel Avatar" />
+- AI agents and intelligent workflows
+- Automation systems that remove repetitive work
+- Python backends and clean APIs
+- LLM-powered applications
 
 <br>
-<br>
-
-### Hi, I'm Adeel!
-
-</div>
-
-<br>
-
-I'm an **Artificial Intelligence student** passionate about building practical AI solutions, automation tools, and backend systems. I enjoy creating tools that make workflows **smarter, faster, and more efficient.**
-
-<br>
-
-**🚀 Currently exploring:**
-
-- 🤖 &nbsp;AI Agents & Intelligent Workflows
-- ⚡ &nbsp;AI Automation Systems
-- 🐍 &nbsp;Python Backend Development
-- 🧠 &nbsp;LLM Applications
-
-<br>
-
-
-<!-- ====================================================== -->
-<!--                  TECHNOLOGIES & TOOLS                  -->
-<!-- ====================================================== -->
 
 ---
 
+
+<!-- ============================================================ -->
+<!--                        TECH STACK                           -->
+<!--        Monochrome shields badges (black + white logo)       -->
+<!-- ============================================================ -->
+
 <div align="center">
 
-## 🛠️ Technologies & Tools
+## Tech Stack
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,git,github,vscode,linux" alt="Tech Stack" />
+**Languages & Frameworks**
+
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+
+<br>
+
+**Tools & Platforms**
+
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
 
 </div>
 
 <br>
 
-
-<!-- ====================================================== -->
-<!--                       PROJECTS                         -->
-<!-- ====================================================== -->
-
 ---
+
+
+<!-- ============================================================ -->
+<!--                         PROJECTS                            -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-## 📌 Projects
+## Projects
 
 </div>
 
 <br>
 
-### 🚀 Token Efficient Routing Agent
+### Token Efficient Routing Agent
 
-An AI agent system focused on improving task routing efficiency while reducing unnecessary model usage.
+> An AI agent system that routes tasks intelligently to cut unnecessary model calls — keeping cost and latency down without sacrificing output quality.
 
-**Focus areas:**
+**Focus:** AI agent workflows · LLM optimization · prompt engineering · Python
 
-- AI Agent workflows
-- LLM optimization
-- Prompt engineering
-- Python development
+<a href="https://github.com/Adeel-x/Token-Efficient-Routing-Agent">
+<img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+</a>
 
-🔗 &nbsp;[**View Repository →**](https://github.com/Adeel-x/Token-Efficient-Routing-Agent)
+<sub>More projects are on the way — check my pinned repositories.</sub>
 
 <br>
 
-
-<!-- ====================================================== -->
-<!--                     GITHUB STATS                       -->
-<!--        Forced pure black / white to match theme        -->
-<!-- ====================================================== -->
-
 ---
+
+
+<!-- ============================================================ -->
+<!--                       GITHUB STATS                          -->
+<!--                                                             -->
+<!--  IMPORTANT: the two cards below use the PUBLIC instance     -->
+<!--  (github-readme-stats.vercel.app), which is often rate-     -->
+<!--  limited and shows a broken image. To make them reliable,   -->
+<!--  deploy your own free instance and replace the domain       -->
+<!--  "github-readme-stats.vercel.app" with your own, e.g.       -->
+<!--  "adeel-stats.vercel.app". Steps are in the chat message.   -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <br>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adeel-x&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Adeel's GitHub Stats" />
-&nbsp;&nbsp;
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel-x&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top Languages" />
 
 <br>
@@ -135,16 +137,16 @@ An AI agent system focused on improving task routing efficiency while reducing u
 
 <br>
 
-
-<!-- ====================================================== -->
-<!--                 CONTRIBUTION ACTIVITY                  -->
-<!-- ====================================================== -->
-
 ---
+
+
+<!-- ============================================================ -->
+<!--                    CONTRIBUTION GRAPH                        -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-## 📈 Contribution Activity
+## Contribution Graph
 
 <br>
 
@@ -159,29 +161,36 @@ An AI agent system focused on improving task routing efficiency while reducing u
 
 <br>
 
-
-<!-- ====================================================== -->
-<!--                     LET'S CONNECT                      -->
-<!-- ====================================================== -->
-
 ---
+
+
+<!-- ============================================================ -->
+<!--                       LET'S CONNECT                         -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <br>
 
 <a href="https://linkedin.com/in/adeel-faheem">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-&nbsp;
 <a href="mailto:adeelfaheem20@gmail.com">
 <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-&nbsp;
 <a href="https://github.com/Adeel-x">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+
+<br>
+<br>
+
+<sub><i>Building in public, one commit at a time.</i></sub>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Adeel-x&label=Profile%20Views&color=ffffff&style=flat" alt="Profile Views" />
 
 </div>
