@@ -31,7 +31,7 @@
 
 <div align="center">
 
-## 🧑‍💻 Know About Me
+##  Know About Me
 
 <br>
 
@@ -40,7 +40,7 @@
 <br>
 <br>
 
-### Hi, I'm Adeel! 👋
+### Hi, I'm Adeel!
 
 **AI student building practical tools, automation, and backend systems.**
 
