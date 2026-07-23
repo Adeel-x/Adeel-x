@@ -125,8 +125,8 @@ Still early in the journey, still breaking things on purpose to understand them 
 
 <br>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Adeel-x&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Adeel's GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel-x&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats-seven-sand-38.vercel.app/api?username=Adeel-x&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Adeel's GitHub Stats" />
+<img height="165" src="https://github-readme-stats-seven-sand-38.vercel.app/api/top-langs/?username=Adeel-x&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top Languages" />
 
 <br>
 <br>
