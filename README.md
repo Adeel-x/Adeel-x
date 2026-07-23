@@ -23,7 +23,7 @@
 
 ## Know About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=I+build+AI+that+does+the+boring+work;Agents+%E2%80%A2+Automation+%E2%80%A2+Backend;Python-first%2C+always+shipping" alt="What I do" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+I+Am+Adeel!;I+build+AI+that+does+the+boring+work;Agents+%E2%80%A2+Automation+%E2%80%A2+Backend" alt="What I do" />
 
 </div>
 
