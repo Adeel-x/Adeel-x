@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="./assets/adeel-banner.gif" width="100%" alt="Adeel's GitHub Banner" />
+<img src="./assets/adeel-banner.webp" width="100%" alt="Adeel's GitHub Banner" />
 
 </div>
 
