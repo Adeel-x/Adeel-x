@@ -131,7 +131,7 @@ Still early in the journey, still breaking things on purpose to understand them 
 <br>
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=Adeel-x&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff&titleColor=ffffff" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-one-zeta-18.vercel.app/?user=Adeel-x&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
 
 </div>
 
