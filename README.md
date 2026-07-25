@@ -25,10 +25,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+I+Am+Adeel!;I+build+AI+that+does+the+boring+work;Agents+%E2%80%A2+Automation+%E2%80%A2+Backend" alt="What I do" />
 
+</div>
 
 <br>
-
-<div align="center">
 
 I'm an AI student who got into this field for a very honest reason. I wanted to build things that handle the boring work so I don't have to. That slowly turned into a real obsession with AI agents, automation, and the backend systems that quietly hold everything together.
 Most of what I build starts the same way: I get mildly annoyed at doing something by hand, and a few hours later there's a Python script, an agent, or an LLM pipeline doing it better than I would have. I care less about the hype and more about tools that actually work when you run them.
