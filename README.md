@@ -89,8 +89,22 @@ Still early in the journey, still breaking things on purpose to understand them.
 **Focus:** AI agent workflows · LLM optimization · prompt engineering · Python
 
 <a href="https://github.com/Adeel-x/Token-Efficient-Routing-Agent">
-<img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+  <img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
 </a>
+
+<br><br>
+
+### E-commerce Customer Support Automation
+
+> An automated n8n triage system using Groq AI (Llama 3.3) to classify support emails, draft replies, log analytics to Google Sheets, and flag urgent escalations.
+
+**Focus:** n8n · AI Automation · Groq API · Customer Support · Gmail & Sheets API
+
+<a href="https://github.com/Adeel-x/Ecommerce-Customer-Support-Automation">
+  <img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+</a>
+
+<br><br>
 
 <sub>More projects are on the way — check my pinned repositories.</sub>
 
